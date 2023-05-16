@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Profile</title>
+</head>
+<body>
+<h1>Khalil, Malik Muhammad</h1>
+
+<p>Hello, I am from Pakistan and my BSc is in Mechatronics Engineering from University of Wah (Wah Engineering College). During Bachelors my interest was in Robotics and after that I worked as a Research Assistant in one of the Robotics Labs in our country then I decided to pursue my Masters Degree so I prefer USA and then I got admission in University of New Haven. My hobbies include Cycling, Hunting and Playing Cricket.</p>
+
+<h3>Skills</h3>
+<ol>
+<li>ROS</li>
+<li>Python</li>
+<li>Matlab</li>
+</ol>
+
+<h3>Websites</h3>
+<ol>
+<li><a href="https://github.com/mm-khalil">Github</a></li>
+<li><a href="https://www.linkedin.com/in/malik-muhammad-khalil-484a99250/">Linkdin</a></li>
+<li><a href="https://www.apple.com/store?afid=p238%7CseIEs444j-dc_mtid_1870765e38482_pcrid_645927244757_pgrid_13945964887_pntwk_g_pchan__pexid__&cid=aos-us-kwgo-brand-apple--slid---product-">Apple</a></li>
+</ol>
+
+<font color="red"><h4>Note</h4> <br> </font> <ol>
+<li>As relative Picture Location is needed and I have no Social or any other online Account that have my Picture that's why I am not able to upload it, I am Sorry for that.</li>
+<li>I have only Github and Linkdin Accounts so for 3rd one I list my favourite product i.e Apple </li>
+</ol>
+
+<br>
+</body>
+</html>
+    
+
